@@ -1,5 +1,6 @@
 # Frontend-Development-Tutorials
-This repository includes course work and handson projects to become an Frontend Developer/ React Developer 
+This repository includes course work and handson projects to become an Frontend Developer/ React Developer. 
+Note :- Below content is completely FREE of cost 
 
 
 ## Web Development Study Material
