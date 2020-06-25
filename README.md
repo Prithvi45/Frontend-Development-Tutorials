@@ -18,6 +18,9 @@ In this tutorial we will learn all about JavaScript. We will start from the basi
 
 [Modern Javascript | ES6 Tutorials](https://www.edyoda.com/course/1500)
 
+In this tutorial we will learn about the features released in ES6 and above which are used extensively in React development.
+
+
 [React Js Tutorials](https://www.edyoda.com/course/1501)
 
 [Angular  5](https://www.edyoda.com/course/1227)
