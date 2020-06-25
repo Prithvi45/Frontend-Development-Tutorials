@@ -1,4 +1,4 @@
-# Frontent-Development-Tutorials
+# Frontend-Development-Tutorials
 This repository includes course work and handson projects to become an Frontend Developer/ React Developer 
 
 
