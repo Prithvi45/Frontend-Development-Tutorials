@@ -17,20 +17,26 @@ In this tutorial we will learn all about JavaScript. We will start from the basi
 
 
 [Modern Javascript | ES6 Tutorials](https://www.edyoda.com/course/1500)
-
 In this tutorial we will learn about the features released in ES6 and above which are used extensively in React development.
 
 
 [React Js Tutorials](https://www.edyoda.com/course/1501)
+In this tutorial series we are gonna cover everything you will need to create end-to-end React applications.
 
 [Angular  5](https://www.edyoda.com/course/1227)
-
+This series covers all the important concepts/features of Angular 5. You can learn about Components, Databinding, Directives, Services & Dependency Injection, Pipes, Routing, Http requests, Observables, Authentication & Route Protection and Forms. As a bonus, deployment of a project/application on AWS S3 is also a part of this series.
+Learn from the videos and practice all the concepts by creating multiple Single Page Applications(SPA). 
 
 ## Web Development Project
 
 [Build a website with pure HTML and CSS](https://www.edyoda.com/course/1433)
-
+In this series we will build a website step-by-step and from scratch. In each video we will design a section of the website. In the last video we turn our website into a mobile responsive website <3
 
 
 ## 30 Days Challenge
 [30Days Coding Challenge](https://www.edyoda.com/course/1472?episode_id=2572)
+Welcome to this 30DaysCodingChallenge video series.
+
+I will be posting a new project video every day for the next 30 days. These will be small projects, they shouldn't take more than 60 minutes to complete. These projects will help you brush up your HTML, CSS and JavaScript skills.
+
+
