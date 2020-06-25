@@ -4,11 +4,17 @@ This repository includes course work and handson projects to become an Frontend 
 
 ## Web Development Study Material
 
-[HTML5 Course Tutorials](https://www.edyoda.com/course/1481)
+[HTML5 Tutorials](https://www.edyoda.com/course/1481)
+In this tutorial we will learn all about HTML5. We will start from basic topics like adding headings, paragraphs, images etc and will move towards more advanced topics like adding forms, vector graphics, multimedia and so on.
+
 
 [CSS3 Tutorials](https://www.edyoda.com/course/1486)
+In this tutorial we will learn all about CSS right from the basic topics like styling texts and images to advanced topics like responsive design and CSS animations.
 
 [Javascript Tutorials](https://www.edyoda.com/course/1496)
+In this tutorial we will learn all about JavaScript. We will start from the basic topics like variables, code structure, arrays etc and move on to more advanced topics like manipulating DOM, connecting to backend, AJAX, JSON, jQuery etc. This is gonna be an amazing learning experience.
+
+
 
 [Modern Javascript | ES6 Tutorials](https://www.edyoda.com/course/1500)
 
